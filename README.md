@@ -12,4 +12,8 @@ Includes Java, Python, SQL solutions.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ShreyaCodes176/LeetCode-Problems-and-Solutions/tree/master/0001-two-sum) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/ShreyaCodes176/LeetCode-Problems-and-Solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
