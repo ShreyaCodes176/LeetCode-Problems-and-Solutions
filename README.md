@@ -21,6 +21,7 @@ Includes Java, Python, SQL solutions.
 | [0178-rank-scores](https://github.com/ShreyaCodes176/LeetCode-Problems-and-Solutions/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/ShreyaCodes176/LeetCode-Problems-and-Solutions/tree/master/0180-consecutive-numbers) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/ShreyaCodes176/LeetCode-Problems-and-Solutions/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0182-duplicate-emails](https://github.com/ShreyaCodes176/LeetCode-Problems-and-Solutions/tree/master/0182-duplicate-emails) |
 ## Math
 |  |
 | ------- |
