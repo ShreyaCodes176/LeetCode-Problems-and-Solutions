@@ -3,8 +3,8 @@ select d.name as Department, e.name as Employee, Salary
 from Employee e
 join Department d 
 on e.departmentId=d.id
-where e.salary=(
-    select max(salary)
+where (e.departmentId,e.salary) in (
+    select departmentId, max(salary)
     from employee 
-    where departmentId=e.departmentId
+    group by departmentId
 );
