@@ -8,6 +8,7 @@ Includes Java, Python, SQL solutions.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ShreyaCodes176/LeetCode-Problems-and-Solutions/tree/master/0001-two-sum) |
+| [0877-stone-game](https://github.com/ShreyaCodes176/LeetCode-Problems-and-Solutions/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@ Includes Java, Python, SQL solutions.
 ## Math
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/ShreyaCodes176/LeetCode-Problems-and-Solutions/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ShreyaCodes176/LeetCode-Problems-and-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ShreyaCodes176/LeetCode-Problems-and-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
@@ -52,4 +54,12 @@ Includes Java, Python, SQL solutions.
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShreyaCodes176/LeetCode-Problems-and-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/ShreyaCodes176/LeetCode-Problems-and-Solutions/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/ShreyaCodes176/LeetCode-Problems-and-Solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
