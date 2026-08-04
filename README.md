@@ -9,11 +9,13 @@ Includes Java, Python, SQL solutions.
 | ------- |
 | [0001-two-sum](https://github.com/ShreyaCodes176/LeetCode-Problems-and-Solutions/tree/master/0001-two-sum) |
 | [0877-stone-game](https://github.com/ShreyaCodes176/LeetCode-Problems-and-Solutions/tree/master/0877-stone-game) |
+| [3731-find-missing-elements](https://github.com/ShreyaCodes176/LeetCode-Problems-and-Solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ShreyaCodes176/LeetCode-Problems-and-Solutions/tree/master/0001-two-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShreyaCodes176/LeetCode-Problems-and-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/ShreyaCodes176/LeetCode-Problems-and-Solutions/tree/master/3731-find-missing-elements) |
 ## Database
 |  |
 | ------- |
@@ -50,6 +52,7 @@ Includes Java, Python, SQL solutions.
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShreyaCodes176/LeetCode-Problems-and-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/ShreyaCodes176/LeetCode-Problems-and-Solutions/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
