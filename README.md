@@ -8,6 +8,7 @@ Includes Java, Python, SQL solutions.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ShreyaCodes176/LeetCode-Problems-and-Solutions/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ShreyaCodes176/LeetCode-Problems-and-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0877-stone-game](https://github.com/ShreyaCodes176/LeetCode-Problems-and-Solutions/tree/master/0877-stone-game) |
 | [3731-find-missing-elements](https://github.com/ShreyaCodes176/LeetCode-Problems-and-Solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -65,4 +66,8 @@ Includes Java, Python, SQL solutions.
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/ShreyaCodes176/LeetCode-Problems-and-Solutions/tree/master/0877-stone-game) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ShreyaCodes176/LeetCode-Problems-and-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
