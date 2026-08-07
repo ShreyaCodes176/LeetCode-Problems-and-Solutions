@@ -8,6 +8,7 @@ Includes Java, Python, SQL solutions.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ShreyaCodes176/LeetCode-Problems-and-Solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/ShreyaCodes176/LeetCode-Problems-and-Solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShreyaCodes176/LeetCode-Problems-and-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0877-stone-game](https://github.com/ShreyaCodes176/LeetCode-Problems-and-Solutions/tree/master/0877-stone-game) |
 | [3731-find-missing-elements](https://github.com/ShreyaCodes176/LeetCode-Problems-and-Solutions/tree/master/3731-find-missing-elements) |
@@ -47,6 +48,7 @@ Includes Java, Python, SQL solutions.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ShreyaCodes176/LeetCode-Problems-and-Solutions/tree/master/0011-container-with-most-water) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ShreyaCodes176/LeetCode-Problems-and-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShreyaCodes176/LeetCode-Problems-and-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
@@ -69,5 +71,6 @@ Includes Java, Python, SQL solutions.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ShreyaCodes176/LeetCode-Problems-and-Solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShreyaCodes176/LeetCode-Problems-and-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
